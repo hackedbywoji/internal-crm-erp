@@ -1,3 +1,5 @@
+**English** · [Español](README.es.md)
+
 # Internal CRM and ERP for a three-founder company
 
 A case study from [Kortem](https://kortem.es). Built with my two co-founders. The repository is private, so this covers what it does, the decisions behind it, and what I built.
